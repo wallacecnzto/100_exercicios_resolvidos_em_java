@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/100_exercicios_resolvidos_em_java.iml" filepath="$PROJECT_DIR$/.idea/100_exercicios_resolvidos_em_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formulas_matematicas/formulas_matematicas.iml" filepath="$PROJECT_DIR$/formulas_matematicas/formulas_matematicas.iml" />
+    </modules>
+  </component>
+</project>
